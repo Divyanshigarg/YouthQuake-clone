@@ -1,0 +1,3 @@
+window.__env = {
+API_URL: "https://youthquake.it/api",
+}
